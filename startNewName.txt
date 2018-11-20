@@ -2,4 +2,4 @@ git test file content
 
 added change
 
-change that has been mae in branch newfeature.
+change that has been made in branch newfeature.
