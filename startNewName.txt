@@ -2,4 +2,4 @@ git test file content
 
 added change
 
-change that has been commited but not pushed
+change that has been mae in branch newfeature.
