@@ -5,3 +5,5 @@ added change
 change that has been made in branch newfeature.
 
 edited in changes1
+
+more changes in changes1
