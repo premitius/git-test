@@ -3,5 +3,6 @@ git test file content
 added change
 
 change that has been made in branch newfeature.
+edited in changes1
 
-changes in master
+more changes in changes1
